@@ -10,7 +10,7 @@ public class Tree {
     private int value;
 
 
-    public Tree(){
+    public Tree() {
         super();
     }
 
@@ -36,6 +36,11 @@ public class Tree {
 
     public void setValue(int value) {
         this.value = value;
+    }
+
+    public boolean isLeaf() {
+        if (this.left == null && this.right == null) return true;
+        return false;
     }
 
 
