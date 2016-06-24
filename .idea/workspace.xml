@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d94d8be-1a06-4d30-bc64-ead206d5292a" name="Default" comment="PrintMatrix">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/FullarrayPrintString.class" afterPath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/FullarrayPrintString.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/simple/ChangeTreeToLink.java" afterPath="$PROJECT_DIR$/src/com/simple/ChangeTreeToLink.java" />
     </list>
     <ignored path="AlgorithmTest.iws" />
@@ -72,8 +70,8 @@
       <file leaf-file-name="ChangeTreeToLink.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/simple/ChangeTreeToLink.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="22" column="56" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
+            <state relative-caret-position="-120">
+              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -885,12 +883,12 @@
       <workItem from="1466646018238" duration="2917000" />
       <workItem from="1466651803952" duration="3752000" />
       <workItem from="1466732868150" duration="1237000" />
-      <workItem from="1466770475512" duration="3442000" />
+      <workItem from="1466770475512" duration="4389000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71826000" />
+    <option name="totallyTimeSpent" value="72773000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1332,8 +1330,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/simple/ChangeTreeToLink.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="22" column="56" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
+        <state relative-caret-position="-120">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
           <folding />
         </state>
       </provider>

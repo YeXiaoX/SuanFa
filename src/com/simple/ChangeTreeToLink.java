@@ -10,9 +10,10 @@ import java.util.List;
 public class ChangeTreeToLink {
 
     public static Tree convertTree(Tree root) {
-        Tree last = null;
+        Tree last = new Tree();
 
         convertTree1(root, last);
+        System.out.println("aa:"+last.getLeft().getValue());
         Tree firstLink = last;
         while (firstLink != null && firstLink.getLeft() != null) {
             firstLink = firstLink.getLeft();
@@ -29,11 +30,13 @@ public class ChangeTreeToLink {
         }
 
         tree.setLeft(last);
-        if (last != null) {
+        if (last.getValue() != 0) {
             last.setRight(tree);
         }
-
-        last = tree;
+        last.setLeft(tree.getLeft());
+        last.setValue(tree.getValue());
+        last.setRight(tree.getRight());
+        //last = tree;
         System.out.println("first:"+last.getValue());
 
         if (tree.getRight() != null) {
