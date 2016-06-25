@@ -37,8 +37,8 @@ public class StackPopAndPush {
     }
 
     public static void main(String args[]) {
-        List<Integer> in = new ArrayList<>();
-        List<Integer> out = new ArrayList<>();
+        List<Integer> in = new ArrayList<Integer>();
+        List<Integer> out = new ArrayList<Integer>();
         in.add(1);
         in.add(2);
         in.add(3);

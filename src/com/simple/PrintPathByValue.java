@@ -11,7 +11,7 @@ import java.util.Stack;
  */
 public class PrintPathByValue {
 
-    private static List<Tree> list = new ArrayList<>();
+    private static List<Tree> list = new ArrayList<Tree>();
 
     public static void printPath(Stack<Tree> path, int result, int value) {
         Tree tree = path.peek();
@@ -47,7 +47,7 @@ public class PrintPathByValue {
     }
 
     public static void printStack(Stack<Tree> stack) {
-        Stack<Tree> tempStack = new Stack<>();
+        Stack<Tree> tempStack = new Stack<Tree>();
         while (!stack.isEmpty()) {
             tempStack.push(stack.pop());
         }
@@ -82,7 +82,7 @@ public class PrintPathByValue {
         tree.setRight(tree4);
         tree1.setLeft(tree2);
         tree1.setRight(tree3);
-        Stack<Tree> stack = new Stack<>();
+        Stack<Tree> stack = new Stack<Tree>();
         stack.push(tree);
         printPath(stack, 0, 22);
     }

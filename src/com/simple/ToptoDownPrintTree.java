@@ -44,7 +44,7 @@ public class ToptoDownPrintTree {
         tree1.setRight(tree4);
         tree2.setLeft(tree5);
         tree2.setRight(tree6);
-        Queue<Tree> queue = new LinkedList<>();
+        Queue<Tree> queue = new LinkedList<Tree>();
         queue.offer(tree);
         printTree(queue);
     }
