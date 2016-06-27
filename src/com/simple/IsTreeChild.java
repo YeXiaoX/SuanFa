@@ -11,7 +11,7 @@ import java.util.List;
 public class IsTreeChild {
     public static boolean isChild(Tree parent, Tree son) {
         if (son == null || parent == null) return false;
-        List<Tree> starts = new ArrayList<>();
+        List<Tree> starts = new ArrayList<Tree>();
         getTree(parent, son.getValue(), starts);
         System.out.println("size:"+starts.size());
         if (starts.size() > 0) {

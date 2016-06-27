@@ -23,7 +23,7 @@ public class CopyFuzaLink {
     }
 
     public static Map<FuzaLink, FuzaLink> copyNextLink(FuzaLink head) {
-        Map<FuzaLink, FuzaLink> result = new HashMap<>();
+        Map<FuzaLink, FuzaLink> result = new HashMap<FuzaLink,FuzaLink>();
         while (head != null) {
             FuzaLink temp = null;
             try {

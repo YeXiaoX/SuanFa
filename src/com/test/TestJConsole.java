@@ -12,7 +12,7 @@ public class TestJConsole {
     }
 
     public static void fillHeap(int num) throws InterruptedException {
-        List<oomObject> list = new ArrayList<>();
+        List<oomObject> list = new ArrayList<oomObject>();
         for(int i=0;i<num;i++){
             Thread.sleep(50);
             list.add(new oomObject());
