@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d94d8be-1a06-4d30-bc64-ead206d5292a" name="Default" comment="PrintMatrix">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/simple/ChangeTreeToLink.java" afterPath="$PROJECT_DIR$/src/com/simple/ChangeTreeToLink.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="AlgorithmTest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,16 +35,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IsBinarySearchTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/simple/IsBinarySearchTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="725">
-              <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="PrintPathByValue.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/simple/PrintPathByValue.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -62,16 +52,28 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="500">
               <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChangeTreeToLink.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/simple/ChangeTreeToLink.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ChangeTreeToLink.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/simple/ChangeTreeToLink.java">
+      <file leaf-file-name="TheBigKNum.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/simple/TheBigKNum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-120">
-              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+            <state relative-caret-position="975">
+              <caret line="63" column="24" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -80,9 +82,15 @@
       <file leaf-file-name="RebuildTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/simple/RebuildTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
+            <state relative-caret-position="2025">
               <caret line="82" column="32" selection-start-line="66" selection-start-column="0" selection-end-line="82" selection-end-column="32" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#953#962#0" expanded="false" />
+                <element signature="e#1485#1494#0" expanded="false" />
+                <element signature="e#2553#2562#0" expanded="false" />
+                <element signature="e#2610#2619#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -100,9 +108,18 @@
       <file leaf-file-name="OverHalfInArray.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/simple/OverHalfInArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
+            <state relative-caret-position="1000">
               <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-              <folding />
+              <folding>
+                <element signature="e#219#220#0" expanded="false" />
+                <element signature="e#251#252#0" expanded="false" />
+                <element signature="e#286#287#0" expanded="false" />
+                <element signature="e#320#321#0" expanded="false" />
+                <element signature="e#353#354#0" expanded="false" />
+                <element signature="e#389#390#0" expanded="false" />
+                <element signature="e#432#433#0" expanded="false" />
+                <element signature="e#474#475#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -110,24 +127,9 @@
       <file leaf-file-name="Tree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/simple/Tree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="800">
+            <state relative-caret-position="784">
               <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
-              <folding>
-                <element signature="e#179#180#0" expanded="false" />
-                <element signature="e#202#203#0" expanded="false" />
-                <element signature="e#232#233#0" expanded="false" />
-                <element signature="e#260#261#0" expanded="false" />
-                <element signature="e#300#301#0" expanded="false" />
-                <element signature="e#334#335#0" expanded="false" />
-                <element signature="e#363#364#0" expanded="false" />
-                <element signature="e#390#391#0" expanded="false" />
-                <element signature="e#428#429#0" expanded="false" />
-                <element signature="e#460#461#0" expanded="false" />
-                <element signature="e#489#490#0" expanded="false" />
-                <element signature="e#517#518#0" expanded="false" />
-                <element signature="e#556#557#0" expanded="false" />
-                <element signature="e#590#591#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -204,6 +206,7 @@
         <option value="$PROJECT_DIR$/src/com/simple/FullarrayPrintString.java" />
         <option value="$PROJECT_DIR$/src/com/simple/OverHalfInArray.java" />
         <option value="$PROJECT_DIR$/src/com/simple/ChangeTreeToLink.java" />
+        <option value="$PROJECT_DIR$/src/com/simple/TheBigKNum.java" />
       </list>
     </option>
   </component>
@@ -250,7 +253,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
@@ -313,6 +315,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -322,27 +325,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.ChangeTreeToLink">
-    <configuration default="false" name="PrintPathByValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.simple.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.simple.PrintPathByValue" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="AlgorithmTest" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.TheBigKNum">
     <configuration default="false" name="CopyFuzaLink" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -411,6 +394,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.simple.ChangeTreeToLink" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="AlgorithmTest" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TheBigKNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.simple.TheBigKNum" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -825,19 +828,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.PrintPathByValue" />
-      <item index="1" class="java.lang.String" itemvalue="Application.CopyFuzaLink" />
-      <item index="2" class="java.lang.String" itemvalue="Application.FullarrayPrintString" />
-      <item index="3" class="java.lang.String" itemvalue="Application.OverHalfInArray" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ChangeTreeToLink" />
+      <item index="0" class="java.lang.String" itemvalue="Application.CopyFuzaLink" />
+      <item index="1" class="java.lang.String" itemvalue="Application.FullarrayPrintString" />
+      <item index="2" class="java.lang.String" itemvalue="Application.OverHalfInArray" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ChangeTreeToLink" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TheBigKNum" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ChangeTreeToLink" />
-        <item index="1" class="java.lang.String" itemvalue="Application.OverHalfInArray" />
-        <item index="2" class="java.lang.String" itemvalue="Application.FullarrayPrintString" />
-        <item index="3" class="java.lang.String" itemvalue="Application.CopyFuzaLink" />
-        <item index="4" class="java.lang.String" itemvalue="Application.PrintPathByValue" />
+        <item index="0" class="java.lang.String" itemvalue="Application.TheBigKNum" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ChangeTreeToLink" />
+        <item index="2" class="java.lang.String" itemvalue="Application.OverHalfInArray" />
+        <item index="3" class="java.lang.String" itemvalue="Application.FullarrayPrintString" />
+        <item index="4" class="java.lang.String" itemvalue="Application.CopyFuzaLink" />
       </list>
     </recent_temporary>
   </component>
@@ -883,12 +886,14 @@
       <workItem from="1466646018238" duration="2917000" />
       <workItem from="1466651803952" duration="3752000" />
       <workItem from="1466732868150" duration="1237000" />
-      <workItem from="1466770475512" duration="4389000" />
+      <workItem from="1466770475512" duration="4464000" />
+      <workItem from="1466990912194" duration="609000" />
+      <workItem from="1467027570006" duration="5601000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72773000" />
+    <option name="totallyTimeSpent" value="79058000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -906,7 +911,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.123390555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18991417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -943,13 +948,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/simple/RevertLingList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/simple/RebuildTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2525">
@@ -1214,7 +1212,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1200">
           <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1273,34 +1270,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/simple/Tree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="800">
-          <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
-          <folding>
-            <element signature="e#179#180#0" expanded="false" />
-            <element signature="e#202#203#0" expanded="false" />
-            <element signature="e#232#233#0" expanded="false" />
-            <element signature="e#260#261#0" expanded="false" />
-            <element signature="e#300#301#0" expanded="false" />
-            <element signature="e#334#335#0" expanded="false" />
-            <element signature="e#363#364#0" expanded="false" />
-            <element signature="e#390#391#0" expanded="false" />
-            <element signature="e#428#429#0" expanded="false" />
-            <element signature="e#460#461#0" expanded="false" />
-            <element signature="e#489#490#0" expanded="false" />
-            <element signature="e#517#518#0" expanded="false" />
-            <element signature="e#556#557#0" expanded="false" />
-            <element signature="e#590#591#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/simple/CopyFuzaLink.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
           <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1314,24 +1290,55 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/simple/OverHalfInArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
+        <state relative-caret-position="1000">
           <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#219#220#0" expanded="false" />
+            <element signature="e#251#252#0" expanded="false" />
+            <element signature="e#286#287#0" expanded="false" />
+            <element signature="e#320#321#0" expanded="false" />
+            <element signature="e#353#354#0" expanded="false" />
+            <element signature="e#389#390#0" expanded="false" />
+            <element signature="e#432#433#0" expanded="false" />
+            <element signature="e#474#475#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/simple/RebuildTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
+        <state relative-caret-position="2025">
           <caret line="82" column="32" selection-start-line="66" selection-start-column="0" selection-end-line="82" selection-end-column="32" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#953#962#0" expanded="false" />
+            <element signature="e#1485#1494#0" expanded="false" />
+            <element signature="e#2553#2562#0" expanded="false" />
+            <element signature="e#2610#2619#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/simple/ChangeTreeToLink.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-120">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        <state relative-caret-position="230">
+          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simple/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="784">
+          <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simple/TheBigKNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="63" column="24" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="24" />
           <folding />
         </state>
       </provider>
