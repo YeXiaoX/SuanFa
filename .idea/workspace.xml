@@ -2,53 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d94d8be-1a06-4d30-bc64-ead206d5292a" name="Default" comment="PrintMatrix">
-<<<<<<< HEAD
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-=======
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/BitCalculate.class" afterPath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/BitCalculate.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/CalculateN.class" afterPath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/CalculateN.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/ChangeTreeToLink.class" afterPath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/ChangeTreeToLink.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/CombineSortedLink.class" afterPath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/CombineSortedLink.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/CopyFuzaLink.class" afterPath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/CopyFuzaLink.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/FullarrayPrintString.class" afterPath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/FullarrayPrintString.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/FuzaLink.class" afterPath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/FuzaLink.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/IsBinarySearchTree.class" afterPath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/IsBinarySearchTree.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/IsTreeChild.class" afterPath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/IsTreeChild.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/Link.class" afterPath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/Link.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/O1deleteLinklist.class" afterPath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/O1deleteLinklist.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/OodAndEven.class" afterPath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/OodAndEven.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/OverHalfInArray$Temp.class" afterPath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/OverHalfInArray$Temp.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/OverHalfInArray.class" afterPath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/OverHalfInArray.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/PrintMatrix.class" afterPath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/PrintMatrix.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/PrintNNumber.class" afterPath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/PrintNNumber.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/PrintPathByValue.class" afterPath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/PrintPathByValue.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/RebuildTree.class" afterPath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/RebuildTree.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/ReplaceBlank.class" afterPath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/ReplaceBlank.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/RevertLingList.class" afterPath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/RevertLingList.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/RevertLinklist.class" afterPath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/RevertLinklist.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/StackMin.class" afterPath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/StackMin.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/StackPopAndPush.class" afterPath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/StackPopAndPush.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/TheLastLink.class" afterPath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/TheLastLink.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/ToptoDownPrintTree.class" afterPath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/ToptoDownPrintTree.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/Tree.class" afterPath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/Tree.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/TreesMap.class" afterPath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/TreesMap.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/TwoStacktoQueue.class" afterPath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/TwoStacktoQueue.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/test/TestJConsole$oomObject.class" afterPath="$PROJECT_DIR$/out/production/AlgorithmTest/com/test/TestJConsole$oomObject.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/test/TestJConsole.class" afterPath="$PROJECT_DIR$/out/production/AlgorithmTest/com/test/TestJConsole.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/test/TestThreadWait$1.class" afterPath="$PROJECT_DIR$/out/production/AlgorithmTest/com/test/TestThreadWait$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/test/TestThreadWait$2.class" afterPath="$PROJECT_DIR$/out/production/AlgorithmTest/com/test/TestThreadWait$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/test/TestThreadWait.class" afterPath="$PROJECT_DIR$/out/production/AlgorithmTest/com/test/TestThreadWait.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/TheBigKNum.class" afterPath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/TheBigKNum.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlgorithmTest.iml" afterPath="$PROJECT_DIR$/AlgorithmTest.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/simple/ChangeTreeToLink.java" afterPath="$PROJECT_DIR$/src/com/simple/ChangeTreeToLink.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/simple/CopyFuzaLink.java" afterPath="$PROJECT_DIR$/src/com/simple/CopyFuzaLink.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/simple/IsTreeChild.java" afterPath="$PROJECT_DIR$/src/com/simple/IsTreeChild.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/simple/PrintPathByValue.java" afterPath="$PROJECT_DIR$/src/com/simple/PrintPathByValue.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/simple/StackPopAndPush.java" afterPath="$PROJECT_DIR$/src/com/simple/StackPopAndPush.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/simple/ToptoDownPrintTree.java" afterPath="$PROJECT_DIR$/src/com/simple/ToptoDownPrintTree.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/test/TestJConsole.java" afterPath="$PROJECT_DIR$/src/com/test/TestJConsole.java" />
->>>>>>> 683be1b35caed81340f2250d09cd6d3144fb38bd
     </list>
     <ignored path="AlgorithmTest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -71,25 +27,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-<<<<<<< HEAD
-      <file leaf-file-name="TreesMap.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/simple/TreesMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="36" column="32" selection-start-line="26" selection-start-column="7" selection-end-line="45" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="PrintPathByValue.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/simple/PrintPathByValue.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="950">
               <caret line="40" column="37" selection-start-line="39" selection-start-column="17" selection-end-line="40" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -99,9 +42,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="500">
               <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -109,18 +50,28 @@
       <file leaf-file-name="ChangeTreeToLink.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/simple/ChangeTreeToLink.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
+            <state relative-caret-position="825">
               <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TheBigKNum.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TheBigKNum.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/simple/TheBigKNum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="975">
+            <state relative-caret-position="812">
               <caret line="63" column="24" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TheBiggestSonArray.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/simple/TheBiggestSonArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-250">
+              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -131,26 +82,11 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2025">
               <caret line="82" column="32" selection-start-line="66" selection-start-column="0" selection-end-line="82" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#953#962#0" expanded="false" />
-                <element signature="e#1485#1494#0" expanded="false" />
-                <element signature="e#2553#2562#0" expanded="false" />
-                <element signature="e#2610#2619#0" expanded="false" />
-              </folding>
-=======
-      <file leaf-file-name="ChangeTreeToLink.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/simple/ChangeTreeToLink.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1581">
-              <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
               <folding />
->>>>>>> 683be1b35caed81340f2250d09cd6d3144fb38bd
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
       <file leaf-file-name="FullarrayPrintString.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/simple/FullarrayPrintString.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -166,16 +102,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1000">
               <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-              <folding>
-                <element signature="e#219#220#0" expanded="false" />
-                <element signature="e#251#252#0" expanded="false" />
-                <element signature="e#286#287#0" expanded="false" />
-                <element signature="e#320#321#0" expanded="false" />
-                <element signature="e#353#354#0" expanded="false" />
-                <element signature="e#389#390#0" expanded="false" />
-                <element signature="e#432#433#0" expanded="false" />
-                <element signature="e#474#475#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -183,7 +110,7 @@
       <file leaf-file-name="Tree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/simple/Tree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="784">
+            <state relative-caret-position="800">
               <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
               <folding />
             </state>
@@ -195,26 +122,11 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="725">
               <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
-              <folding>
-                <element signature="e#226#227#0" expanded="false" />
-                <element signature="e#256#257#0" expanded="false" />
-                <element signature="e#304#305#0" expanded="false" />
-                <element signature="e#342#343#0" expanded="false" />
-                <element signature="e#375#376#0" expanded="false" />
-                <element signature="e#402#403#0" expanded="false" />
-                <element signature="e#444#445#0" expanded="false" />
-                <element signature="e#476#477#0" expanded="false" />
-                <element signature="e#509#510#0" expanded="false" />
-                <element signature="e#538#539#0" expanded="false" />
-                <element signature="e#582#583#0" expanded="false" />
-                <element signature="e#618#619#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-=======
->>>>>>> 683be1b35caed81340f2250d09cd6d3144fb38bd
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -266,6 +178,7 @@
         <option value="$PROJECT_DIR$/src/com/simple/CopyFuzaLink.java" />
         <option value="$PROJECT_DIR$/src/com/simple/ChangeTreeToLink.java" />
         <option value="$PROJECT_DIR$/src/com/simple/TheBigKNum.java" />
+        <option value="$PROJECT_DIR$/src/com/simple/TheBiggestSonArray.java" />
       </list>
     </option>
   </component>
@@ -278,8 +191,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -312,36 +225,33 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-<<<<<<< HEAD
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
-=======
->>>>>>> 683be1b35caed81340f2250d09cd6d3144fb38bd
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SuanFa" />
+              <option name="myItemId" value="AlgorithmTest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SuanFa" />
+              <option name="myItemId" value="AlgorithmTest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SuanFa" />
+              <option name="myItemId" value="AlgorithmTest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SuanFa" />
+              <option name="myItemId" value="AlgorithmTest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SuanFa" />
+              <option name="myItemId" value="AlgorithmTest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -352,18 +262,14 @@
               <option name="myItemId" value="com" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SuanFa" />
+              <option name="myItemId" value="AlgorithmTest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SuanFa" />
+              <option name="myItemId" value="AlgorithmTest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -381,12 +287,7 @@
           </PATH>
         </subPane>
       </pane>
-<<<<<<< HEAD
-=======
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
->>>>>>> 683be1b35caed81340f2250d09cd6d3144fb38bd
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -399,27 +300,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.TheBigKNum">
-    <configuration default="false" name="CopyFuzaLink" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.simple.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.simple.CopyFuzaLink" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="AlgorithmTest" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.TheBiggestSonArray">
     <configuration default="false" name="FullarrayPrintString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -488,6 +369,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.simple.TheBigKNum" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="AlgorithmTest" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TheBiggestSonArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.simple.TheBiggestSonArray" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -902,19 +803,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.CopyFuzaLink" />
-      <item index="1" class="java.lang.String" itemvalue="Application.FullarrayPrintString" />
-      <item index="2" class="java.lang.String" itemvalue="Application.OverHalfInArray" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ChangeTreeToLink" />
-      <item index="4" class="java.lang.String" itemvalue="Application.TheBigKNum" />
+      <item index="0" class="java.lang.String" itemvalue="Application.FullarrayPrintString" />
+      <item index="1" class="java.lang.String" itemvalue="Application.OverHalfInArray" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ChangeTreeToLink" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TheBigKNum" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TheBiggestSonArray" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TheBigKNum" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ChangeTreeToLink" />
-        <item index="2" class="java.lang.String" itemvalue="Application.OverHalfInArray" />
-        <item index="3" class="java.lang.String" itemvalue="Application.FullarrayPrintString" />
-        <item index="4" class="java.lang.String" itemvalue="Application.CopyFuzaLink" />
+        <item index="0" class="java.lang.String" itemvalue="Application.TheBiggestSonArray" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TheBigKNum" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ChangeTreeToLink" />
+        <item index="3" class="java.lang.String" itemvalue="Application.OverHalfInArray" />
+        <item index="4" class="java.lang.String" itemvalue="Application.FullarrayPrintString" />
       </list>
     </recent_temporary>
   </component>
@@ -960,26 +861,18 @@
       <workItem from="1466646018238" duration="2917000" />
       <workItem from="1466651803952" duration="3752000" />
       <workItem from="1466732868150" duration="1237000" />
-<<<<<<< HEAD
       <workItem from="1466770475512" duration="4464000" />
       <workItem from="1466990912194" duration="609000" />
       <workItem from="1467027570006" duration="5601000" />
-=======
-      <workItem from="1466770475512" duration="4389000" />
-      <workItem from="1466817654036" duration="2329000" />
->>>>>>> 683be1b35caed81340f2250d09cd6d3144fb38bd
+      <workItem from="1467079730714" duration="78000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-<<<<<<< HEAD
-    <option name="totallyTimeSpent" value="79058000" />
-=======
-    <option name="totallyTimeSpent" value="75102000" />
->>>>>>> 683be1b35caed81340f2250d09cd6d3144fb38bd
+    <option name="totallyTimeSpent" value="79136000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -987,18 +880,14 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36555892" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32881355" sideWeight="0.50914633" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32756633" sideWeight="0.513412" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32881355" sideWeight="0.49085367" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32756633" sideWeight="0.48658797" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881355" sideWeight="0.49695122" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-<<<<<<< HEAD
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18991417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-=======
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2339939" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
->>>>>>> 683be1b35caed81340f2250d09cd6d3144fb38bd
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1035,41 +924,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/simple/RebuildTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2525">
-          <caret line="102" column="30" selection-start-line="102" selection-start-column="30" selection-end-line="102" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/simple/BitCalculate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/simple/TwoStacktoQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/simple/Tree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/simple/ReplaceBlank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1300">
-          <caret line="52" column="42" selection-start-line="52" selection-start-column="42" selection-end-line="52" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/simple/RevertLingList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="825">
@@ -1268,7 +1122,6 @@
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/com/simple/StackPopAndPush.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1200">
@@ -1280,36 +1133,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-=======
->>>>>>> 683be1b35caed81340f2250d09cd6d3144fb38bd
     <entry file="file://$PROJECT_DIR$/src/com/simple/IsBinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/simple/TreesMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="900">
           <caret line="36" column="32" selection-start-line="26" selection-start-column="7" selection-end-line="45" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/com/simple/PrintPathByValue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="950">
           <caret line="40" column="37" selection-start-line="39" selection-start-column="17" selection-end-line="40" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1317,20 +1163,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="725">
           <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
-          <folding>
-            <element signature="e#226#227#0" expanded="false" />
-            <element signature="e#256#257#0" expanded="false" />
-            <element signature="e#304#305#0" expanded="false" />
-            <element signature="e#342#343#0" expanded="false" />
-            <element signature="e#375#376#0" expanded="false" />
-            <element signature="e#402#403#0" expanded="false" />
-            <element signature="e#444#445#0" expanded="false" />
-            <element signature="e#476#477#0" expanded="false" />
-            <element signature="e#509#510#0" expanded="false" />
-            <element signature="e#538#539#0" expanded="false" />
-            <element signature="e#582#583#0" expanded="false" />
-            <element signature="e#618#619#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1338,36 +1171,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
           <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-=======
-    <entry file="file://$PROJECT_DIR$/src/com/simple/Tree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
-          <folding>
-            <element signature="e#179#180#0" expanded="false" />
-            <element signature="e#202#203#0" expanded="false" />
-            <element signature="e#232#233#0" expanded="false" />
-            <element signature="e#260#261#0" expanded="false" />
-            <element signature="e#300#301#0" expanded="false" />
-            <element signature="e#334#335#0" expanded="false" />
-            <element signature="e#363#364#0" expanded="false" />
-            <element signature="e#390#391#0" expanded="false" />
-            <element signature="e#428#429#0" expanded="false" />
-            <element signature="e#460#461#0" expanded="false" />
-            <element signature="e#489#490#0" expanded="false" />
-            <element signature="e#517#518#0" expanded="false" />
-            <element signature="e#556#557#0" expanded="false" />
-            <element signature="e#590#591#0" expanded="false" />
->>>>>>> 683be1b35caed81340f2250d09cd6d3144fb38bd
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/simple/FullarrayPrintString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="800">
           <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
           <folding />
         </state>
@@ -1375,52 +1185,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/simple/OverHalfInArray.java">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
         <state relative-caret-position="1000">
-=======
-        <state relative-caret-position="0">
->>>>>>> 683be1b35caed81340f2250d09cd6d3144fb38bd
           <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-          <folding>
-            <element signature="e#219#220#0" expanded="false" />
-            <element signature="e#251#252#0" expanded="false" />
-            <element signature="e#286#287#0" expanded="false" />
-            <element signature="e#320#321#0" expanded="false" />
-            <element signature="e#353#354#0" expanded="false" />
-            <element signature="e#389#390#0" expanded="false" />
-            <element signature="e#432#433#0" expanded="false" />
-            <element signature="e#474#475#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/simple/RebuildTree.java">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
         <state relative-caret-position="2025">
           <caret line="82" column="32" selection-start-line="66" selection-start-column="0" selection-end-line="82" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#953#962#0" expanded="false" />
-            <element signature="e#1485#1494#0" expanded="false" />
-            <element signature="e#2553#2562#0" expanded="false" />
-            <element signature="e#2610#2619#0" expanded="false" />
-          </folding>
-=======
-        <state relative-caret-position="0">
-          <caret line="82" column="32" selection-start-line="66" selection-start-column="0" selection-end-line="82" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/simple/FuzaLink.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
           <folding />
->>>>>>> 683be1b35caed81340f2250d09cd6d3144fb38bd
         </state>
       </provider>
     </entry>
@@ -1428,11 +1203,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="925">
           <caret line="42" column="28" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#530#864#0" expanded="false" />
-            <element signature="e#863#864#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1440,10 +1210,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="950">
           <caret line="40" column="51" selection-start-line="40" selection-start-column="51" selection-end-line="40" selection-end-column="51" />
-          <folding>
-            <element signature="e#1064#1073#0" expanded="true" />
-            <element signature="e#1118#1127#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1451,9 +1217,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="45" column="30" selection-start-line="45" selection-start-column="30" selection-end-line="45" selection-end-column="30" />
-          <folding>
-            <element signature="e#1298#1304#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1461,21 +1224,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
-          <folding>
-            <element signature="e#343#354#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/simple/PrintPathByValue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1400">
-          <caret line="82" column="29" selection-start-line="82" selection-start-column="29" selection-end-line="82" selection-end-column="29" />
-          <folding>
-            <element signature="e#254#260#0" expanded="true" />
-            <element signature="e#1684#1690#0" expanded="true" />
-            <element signature="e#2827#2833#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="950">
+          <caret line="40" column="37" selection-start-line="39" selection-start-column="17" selection-end-line="40" selection-end-column="37" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1483,26 +1239,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1050">
           <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
-          <folding>
-            <element signature="e#330#336#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/simple/CopyFuzaLink.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-250">
-          <caret line="25" column="72" selection-start-line="25" selection-start-column="72" selection-end-line="25" selection-end-column="72" />
-          <folding>
-            <element signature="e#663#682#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="500">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/simple/ChangeTreeToLink.java">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="230">
+        <state relative-caret-position="825">
           <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
           <folding />
         </state>
@@ -1510,7 +1260,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/simple/Tree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="784">
+        <state relative-caret-position="800">
           <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
           <folding />
         </state>
@@ -1518,12 +1268,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/simple/TheBigKNum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
+        <state relative-caret-position="812">
           <caret line="63" column="24" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="24" />
-=======
-        <state relative-caret-position="-1581">
-          <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
->>>>>>> 683be1b35caed81340f2250d09cd6d3144fb38bd
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simple/TheBiggestSonArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-250">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
           <folding />
         </state>
       </provider>
