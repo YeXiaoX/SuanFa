@@ -25,16 +25,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="PrintPathByValue.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/simple/PrintPathByValue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="950">
-              <caret line="40" column="37" selection-start-line="39" selection-start-column="17" selection-end-line="40" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CopyFuzaLink.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/simple/CopyFuzaLink.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -72,8 +62,6 @@
               <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#373#390#0" expanded="true" />
-                <element signature="e#442#459#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -95,7 +83,7 @@
       <file leaf-file-name="GetSortArrayNumberOfN.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/simple/GetSortArrayNumberOfN.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
+            <state relative-caret-position="1475">
               <caret line="60" column="16" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -105,12 +93,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TheDeepthOfTree.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TheDeepthOfTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/simple/TheDeepthOfTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+            <state relative-caret-position="812">
+              <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindTwoOnlyOne.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/simple/FindTwoOnlyOne.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-100">
+              <caret line="14" column="92" selection-start-line="14" selection-start-column="92" selection-end-line="14" selection-end-column="92" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#453#462#0" expanded="true" />
+                <element signature="e#507#516#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -118,7 +120,7 @@
       <file leaf-file-name="RebuildTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/simple/RebuildTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
+            <state relative-caret-position="1900">
               <caret line="77" column="18" selection-start-line="66" selection-start-column="0" selection-end-line="82" selection-end-column="32" />
               <folding />
             </state>
@@ -194,6 +196,7 @@
         <option value="$PROJECT_DIR$/src/com/simple/SameLinkOfLinklist.java" />
         <option value="$PROJECT_DIR$/src/com/simple/GetSortArrayNumberOfN.java" />
         <option value="$PROJECT_DIR$/src/com/simple/TheDeepthOfTree.java" />
+        <option value="$PROJECT_DIR$/src/com/simple/FindTwoOnlyOne.java" />
       </list>
     </option>
   </component>
@@ -240,9 +243,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -303,6 +304,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -315,27 +318,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.TheDeepthOfTree">
-    <configuration default="false" name="TheNumberNUgly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.simple.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.simple.TheNumberNUgly" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="AlgorithmTest" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.FindTwoOnlyOne">
     <configuration default="false" name="TheFirstAndOnlyOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -404,6 +387,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.simple.TheDeepthOfTree" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="AlgorithmTest" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="FindTwoOnlyOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.simple.FindTwoOnlyOne" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -818,19 +821,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.TheNumberNUgly" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TheFirstAndOnlyOne" />
-      <item index="2" class="java.lang.String" itemvalue="Application.SameLinkOfLinklist" />
-      <item index="3" class="java.lang.String" itemvalue="Application.GetSortArrayNumberOfN" />
-      <item index="4" class="java.lang.String" itemvalue="Application.TheDeepthOfTree" />
+      <item index="0" class="java.lang.String" itemvalue="Application.TheFirstAndOnlyOne" />
+      <item index="1" class="java.lang.String" itemvalue="Application.SameLinkOfLinklist" />
+      <item index="2" class="java.lang.String" itemvalue="Application.GetSortArrayNumberOfN" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TheDeepthOfTree" />
+      <item index="4" class="java.lang.String" itemvalue="Application.FindTwoOnlyOne" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TheDeepthOfTree" />
-        <item index="1" class="java.lang.String" itemvalue="Application.GetSortArrayNumberOfN" />
-        <item index="2" class="java.lang.String" itemvalue="Application.SameLinkOfLinklist" />
-        <item index="3" class="java.lang.String" itemvalue="Application.TheFirstAndOnlyOne" />
-        <item index="4" class="java.lang.String" itemvalue="Application.TheNumberNUgly" />
+        <item index="0" class="java.lang.String" itemvalue="Application.FindTwoOnlyOne" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TheDeepthOfTree" />
+        <item index="2" class="java.lang.String" itemvalue="Application.GetSortArrayNumberOfN" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SameLinkOfLinklist" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TheFirstAndOnlyOne" />
       </list>
     </recent_temporary>
   </component>
@@ -889,28 +892,29 @@
       <workItem from="1467683476189" duration="1161000" />
       <workItem from="1467769621651" duration="1671000" />
       <workItem from="1467782349729" duration="22000" />
-      <workItem from="1467855027489" duration="1740000" />
+      <workItem from="1467855027489" duration="1927000" />
+      <workItem from="1467941813081" duration="844000" />
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92595000" />
+    <option name="totallyTimeSpent" value="93626000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36555892" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32641292" sideWeight="0.53272533" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32641292" sideWeight="0.5139485" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32641292" sideWeight="0.46727467" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328341" sideWeight="0.49248928" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32641292" sideWeight="0.46512875" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32641292" sideWeight="0.4860515" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2333691" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -954,18 +958,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/simple/TheFirstAndOnlyOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#373#390#0" expanded="true" />
-            <element signature="e#442#459#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/simple/Tree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="800">
@@ -1268,8 +1260,6 @@
           <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#373#390#0" expanded="true" />
-            <element signature="e#442#459#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1302,7 +1292,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/simple/GetSortArrayNumberOfN.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
+        <state relative-caret-position="1475">
           <caret line="60" column="16" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1313,7 +1303,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/simple/RebuildTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
+        <state relative-caret-position="1900">
           <caret line="77" column="18" selection-start-line="66" selection-start-column="0" selection-end-line="82" selection-end-column="32" />
           <folding />
         </state>
@@ -1321,9 +1311,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/simple/TheDeepthOfTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        <state relative-caret-position="812">
+          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simple/FindTwoOnlyOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-100">
+          <caret line="14" column="92" selection-start-line="14" selection-start-column="92" selection-end-line="14" selection-end-column="92" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#453#462#0" expanded="true" />
+            <element signature="e#507#516#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
