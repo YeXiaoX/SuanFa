@@ -1,5 +1,8 @@
 package com.simple;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * Created by Ivan on 2016/7/15.
  * 圆圈中最后一个数字，0,1.。。。。n-1个数，每次从数字0开始删除第m个数
@@ -55,7 +58,43 @@ public class TheLastNum {
         System.out.println(before.getIntValue());
     }
 
+    //不用循环链表的解法
+    public static void getLastNum1(int n, int m) {
+        List<Integer> list = new ArrayList<Integer>();
+        for (int i = 0; i < n; i++) {
+            list.add(i);
+        }
+        int i = 1;
+        int index = 0;
+        while (list.size() > 1) {
+            if (index >= list.size()) index = 0;
+            if (i == m) {
+                // System.out.println(list.get(index));
+                list.remove(list.get(index));
+                i = 1;
+            } else {
+                index++;
+                i++;
+            }
+        }
+        System.out.println(list.get(0));
+    }
+
     public static void main(String args[]) {
-        getLastNum(10, 7);
+        System.out.println(System.currentTimeMillis());
+        getLastNum(10000, 997);
+        System.out.println(System.currentTimeMillis());
+        getLastNum1(10000, 997);
+        System.out.println(System.currentTimeMillis());
+        /*
+
+        结果：
+        1468587939251
+        2647
+        1468587939288
+        2647
+        1468587939334
+        * */
+        //第二种算法比第一种算法慢，说明了链表的效率比list高
     }
 }
