@@ -17,7 +17,6 @@ public class AddBasedOnRules {
     public static void main(String args[]) {
         int result = nFactorial(100000);//递归如果层级太深会栈溢出
         System.out.println(result);
-
     }
 
 }
