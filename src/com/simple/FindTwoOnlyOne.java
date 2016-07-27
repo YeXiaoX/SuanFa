@@ -14,6 +14,7 @@ public class FindTwoOnlyOne {
         for (int i = 0; i < aa.length; i++) {
             divideFlag = aa[i] ^ divideFlag;//通过某一位是否为1把数组分为两个数组，然后通过对拆分后的数组进行异或运算得到只出现一次的数字
         }
+        divideFlag = findFirst1(divideFlag);
         List<Integer> aa1 = new ArrayList<Integer>();
         List<Integer> aa2 = new ArrayList<Integer>();
         for (int j = 0; j < aa.length; j++) {
@@ -33,6 +34,14 @@ public class FindTwoOnlyOne {
             result = result ^ a;
         }
         System.out.println(result);
+    }
+
+    public static int findFirst1(int flag){
+        int temp = 1;
+        while((temp&flag)!=temp){
+            temp*=2;
+        }
+        return temp;
     }
 
     public static void main(String args[]) {
