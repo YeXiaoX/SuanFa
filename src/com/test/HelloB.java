@@ -21,6 +21,10 @@ public class HelloB extends HelloA {
         System.out.println("STATIC B");
     }
 
+    public void test(String s){
+        System.out.println(s);
+    }
+
     public static void main(String[] args) {
         new HelloB();
     }
