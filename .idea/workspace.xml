@@ -2,144 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d94d8be-1a06-4d30-bc64-ead206d5292a" name="Default" comment="PrintMatrix">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/aop/proxy/test/MethodPerformance.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/aop/proxy/test/PerformanceHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/aop/proxy/test/PerformanceMonitor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/aop/proxy/test/Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/aop/proxy/test/TestService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/aop/proxy/test/TestServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/AddBasedOnRules.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/BitCalculate.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/CalculateN.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/ChangeTreeToLink.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/CombineSortedLink.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/CopyFuzaLink.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/DeleteNumByOrder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/FindTwoInArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/FindTwoOnlyOne.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/FullarrayPrintString.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/FuzaLink.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/GetSortArrayNumberOfN.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/IsBinarySearchTree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/IsTreeChild.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/Link.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/O1deleteLinklist.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/OodAndEven.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/OverHalfInArray$Temp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/OverHalfInArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/PokeIsInOrder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/PrintMatrix.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/PrintNNumber.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/PrintPathByValue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/RebuildTree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/ReplaceBlank.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/RevertCharacters.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/RevertLingList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/RevertLinklist.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/RevertStringToNum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/SameLinkOfLinklist.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/StackMin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/StackPopAndPush.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/SumWithNoOperator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/TheBigKNum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/TheBiggestSonArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/TheDeepthOfTree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/TheFirstAndOnlyOne.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/TheFirstParentOfTrees.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/TheLastLink.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/TheLastNum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/TheMinNumberOfArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/TheNumberNUgly.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/TheNumberOf1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/TheProbabilityOfN.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/ToptoDownPrintTree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/Tree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/TreesMap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/simple/TwoStacktoQueue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/test/Base.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/test/Dervied.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/test/HelloA.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/test/HelloB.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/test/TestDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/test/TestJConsole$oomObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/test/TestJConsole.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/test/TestThreadWait$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/test/TestThreadWait$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/test/TestThreadWait.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/test/base/java/Annimal.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/test/base/java/Dog.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/test/base/java/StaticMethodOverrideTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/test/base/java/TestMethodMultiThread$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/test/base/java/TestMethodMultiThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/tomcat/test/ShutdownHook.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/tomcat/test/ShutdownHookDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/aop/proxy/test/MethodPerformance.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/aop/proxy/test/PerformanceHandler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/aop/proxy/test/PerformanceMonitor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/aop/proxy/test/Test.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/aop/proxy/test/TestService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/aop/proxy/test/TestServiceImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/AddBasedOnRules.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/BitCalculate.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/CalculateN.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/ChangeTreeToLink.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/CombineSortedLink.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/CopyFuzaLink.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/DeleteNumByOrder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/FindTwoInArray.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/FindTwoOnlyOne.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/FullarrayPrintString.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/FuzaLink.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/GetSortArrayNumberOfN.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/IsBinarySearchTree.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/IsTreeChild.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/Link.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/O1deleteLinklist.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/OodAndEven.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/OverHalfInArray.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/PokeIsInOrder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/PrintMatrix.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/PrintNNumber.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/PrintPathByValue.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/RebuildTree.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/ReplaceBlank.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/RevertCharacters.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/RevertLingList.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/RevertLinklist.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/RevertStringToNum.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/SameLinkOfLinklist.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/StackMin.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/StackPopAndPush.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/SumWithNoOperator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/TheBigKNum.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/TheBiggestSonArray.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/TheDeepthOfTree.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/TheFirstAndOnlyOne.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/TheFirstParentOfTrees.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/TheLastLink.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/TheLastNum.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/TheMinNumberOfArray.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/TheNumberNUgly.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/TheNumberOf1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/TheProbabilityOfN.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/ToptoDownPrintTree.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/Tree.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/TreesMap.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/simple/TwoStacktoQueue.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/test/Base.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/test/Dervied.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/test/HelloA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/test/HelloB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/test/TestDemo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/test/TestJConsole.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/test/TestThreadWait.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/test/base/java/StaticMethodOverrideTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/test/base/java/TestMethodMultiThread.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/tomcat/test/ShutdownHookDemo.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlgorithmTest.iml" afterPath="$PROJECT_DIR$/AlgorithmTest.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/aop/proxy/test/PerformanceHandler.java" afterPath="$PROJECT_DIR$/src/main/java/com/aop/proxy/test/PerformanceHandler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/aop/proxy/test/Test.java" afterPath="$PROJECT_DIR$/src/main/java/com/aop/proxy/test/Test.java" />
     </list>
     <ignored path="AlgorithmTest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -200,9 +64,22 @@
       <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/aop/proxy/test/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+            <state relative-caret-position="407">
+              <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StaticProxy.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/aop/proxy/test/StaticProxy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+              <folding>
+                <element signature="e#190#191#0" expanded="true" />
+                <element signature="e#236#237#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -210,8 +87,8 @@
       <file leaf-file-name="CglibProxy.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/aop/proxy/test/CglibProxy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+            <state relative-caret-position="409">
+              <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -222,10 +99,10 @@
       <file leaf-file-name="PerformanceHandler.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/aop/proxy/test/PerformanceHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+            <state relative-caret-position="378">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding>
-                <marker date="1470310246048" expanded="true" signature="107:181" ph="/**...*/" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -234,8 +111,8 @@
       <file leaf-file-name="PerformanceMonitor.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/aop/proxy/test/PerformanceMonitor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+            <state relative-caret-position="118">
+              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
               <folding>
                 <element signature="e#220#239#0" expanded="true" />
               </folding>
@@ -265,8 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/test/TestThreadWait.java" />
-        <option value="$PROJECT_DIR$/src/com/simple/StackPopAndPush.java" />
         <option value="$PROJECT_DIR$/src/com/simple/ToptoDownPrintTree.java" />
         <option value="$PROJECT_DIR$/src/com/test/TestJConsole.java" />
         <option value="$PROJECT_DIR$/src/com/simple/PrintPathByValue.java" />
@@ -315,6 +190,8 @@
         <option value="$PROJECT_DIR$/src/com/aop/proxy/test/CglibProxy.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/aop/proxy/test/CglibProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/aop/proxy/test/PerformanceHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/aop/proxy/test/StaticProxy.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/aop/proxy/test/Test.java" />
       </list>
     </option>
@@ -1096,13 +973,13 @@
       <workItem from="1470189504856" duration="743000" />
       <workItem from="1470229720468" duration="1408000" />
       <workItem from="1470274176175" duration="660000" />
-      <workItem from="1470302561296" duration="5758000" />
+      <workItem from="1470302561296" duration="6629000" />
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="149804000" />
+    <option name="totallyTimeSpent" value="150675000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -1113,11 +990,11 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3644752" sideWeight="0.4914163" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32641292" sideWeight="0.5799356" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31487888" sideWeight="0.58476394" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32641292" sideWeight="0.4200644" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31487888" sideWeight="0.4168455" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32641292" sideWeight="0.4200644" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31487888" sideWeight="0.41523606" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2333691" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1161,13 +1038,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tomcat/test/ShutdownHookDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/simple/SumWithNoOperator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
@@ -1491,16 +1361,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/aop/proxy/test/PerformanceHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
-          <folding>
-            <marker date="1470310246048" expanded="true" signature="107:181" ph="/**...*/" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/aop/proxy/test/TestService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -1525,16 +1385,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/aop/proxy/test/PerformanceMonitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-          <folding>
-            <element signature="e#220#239#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="427">
@@ -1543,20 +1393,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/aop/proxy/test/PerformanceMonitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding>
+            <element signature="e#220#239#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/aop/proxy/test/CglibProxy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+        <state relative-caret-position="409">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/aop/proxy/test/PerformanceHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/aop/proxy/test/StaticProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+          <folding>
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/aop/proxy/test/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        <state relative-caret-position="407">
+          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
           <folding />
         </state>
       </provider>

@@ -23,5 +23,10 @@ public class Test {
         TestServiceImpl testService = (TestServiceImpl)cglibProxy.getProxy(TestServiceImpl.class);
         testService.test("ss1");
         System.out.println(testService.test1(3));
+
+        //静态代理，只能一个类代理一个接口
+        StaticProxy staticProxy = new StaticProxy(new TestServiceImpl());
+        staticProxy.test("ss2");
+        System.out.println(staticProxy.test1(4));
     }
 }
