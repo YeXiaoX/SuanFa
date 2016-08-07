@@ -8,19 +8,25 @@ import com.test.HelloB;
  */
 
 public class TestMethodMultiThread {
-    public static HelloB dog  = new HelloB();
+    //public static HelloB dog  = new HelloB();
     public static void main(String args[]){
         Thread thread = new Thread(){
             @Override
             public void run() {
-                for(int i = 0;i<100000;i++) {
-                    dog.test("a");
+                for(int i = 0;i<100;i++) {
+                    //dog.test("a");
+                    TestThreadLocal.setInteger(3);
+                    TestThreadLocal.setNoThreadLocal(6);
+                    System.out.println("1:"+TestThreadLocal.getInteger());
+                    //System.out.println("1:"+TestThreadLocal.getNoThreadLocal());
                 }
             }
         };
         thread.start();
-        for(int i = 0;i<100000;i++) {
-            dog.test("b");
+        for(int i = 0;i<100;i++) {
+           // dog.test("b");
+            System.out.println("2:"+TestThreadLocal.getInteger());
+            //System.out.println("2:"+TestThreadLocal.getNoThreadLocal());
         }
     }
 }
