@@ -56,6 +56,7 @@ public class ExecutorTest {
             System.out.println("线程是否中断：" + Thread.currentThread().isInterrupted());
             Thread.currentThread().interrupt();
             System.out.println("线程是否中断1：" + Thread.currentThread().isInterrupted());
+
         } catch (ExecutionException e) {
             e.printStackTrace();
         }
@@ -80,6 +81,15 @@ public class ExecutorTest {
         ExecutorService consumer = Executors.newCachedThreadPool();
         ExecutorTest e = new ExecutorTest(es,queue,consumer);
         e.exec(new String[]{"1", "2", "3", "4"});
+        es.shutdown();
+        consumer.shutdown();
+        try {
+            consumer.awaitTermination(3,TimeUnit.SECONDS);//当调用了shutdown方法时调用，表示阻塞直到所有的任务都被执行，这里阻塞三秒
+        } catch (Exception e1) {
+            e1.printStackTrace();
+        }
+
+        System.exit(0);
     }
 }
 

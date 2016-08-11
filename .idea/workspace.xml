@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d94d8be-1a06-4d30-bc64-ead206d5292a" name="Default" comment="PrintMatrix">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/Cocurrent/ExecutorTest.class" afterPath="$PROJECT_DIR$/target/classes/com/Cocurrent/ExecutorTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/Cocurrent/Task.class" afterPath="$PROJECT_DIR$/target/classes/com/Cocurrent/Task.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/Cocurrent/ExecutorTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/Cocurrent/ExecutorTest.java" />
     </list>
     <ignored path="AlgorithmTest.iws" />
@@ -29,9 +32,12 @@
       <file leaf-file-name="TestReentrant.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/Cocurrent/TestReentrant.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-446">
+            <state relative-caret-position="841">
               <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-              <folding />
+              <folding>
+                <element signature="e#664#665#0" expanded="false" />
+                <element signature="e#706#707#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -39,9 +45,12 @@
       <file leaf-file-name="TestAtomic.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/Cocurrent/TestAtomic.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="47">
+            <state relative-caret-position="377">
               <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-              <folding />
+              <folding>
+                <element signature="e#271#522#0" expanded="false" />
+                <element signature="e#521#522#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -49,11 +58,13 @@
       <file leaf-file-name="TestSychronizedMethod.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/Cocurrent/TestSychronizedMethod.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="915">
+            <state relative-caret-position="1334">
               <caret line="57" column="46" selection-start-line="57" selection-start-column="46" selection-end-line="57" selection-end-column="46" />
               <folding>
-                <element signature="e#1709#1848#0" expanded="true" />
-                <element signature="e#1847#1848#0" expanded="true" />
+                <element signature="e#1317#1526#0" expanded="false" />
+                <element signature="e#1525#1526#0" expanded="false" />
+                <element signature="e#1548#1687#0" expanded="false" />
+                <element signature="e#1686#1687#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -62,20 +73,16 @@
       <file leaf-file-name="ExecutorTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/Cocurrent/ExecutorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+            <state relative-caret-position="1526">
+              <caret line="89" column="9" selection-start-line="89" selection-start-column="9" selection-end-line="89" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#701#709#0" expanded="true" />
                 <element signature="e#834#842#0" expanded="true" />
                 <element signature="e#944#952#0" expanded="true" />
-                <element signature="e#1046#1239#0" expanded="true" />
-                <element signature="e#1238#1239#0" expanded="true" />
-                <element signature="e#1322#1475#0" expanded="true" />
-                <element signature="e#1474#1475#0" expanded="true" />
-                <element signature="e#2962#2970#0" expanded="true" />
-                <element signature="e#3219#3220#0" expanded="true" />
-                <element signature="e#3259#3260#0" expanded="true" />
+                <element signature="e#2979#2987#0" expanded="true" />
+                <element signature="e#3505#3506#0" expanded="true" />
+                <element signature="e#3545#3546#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -94,12 +101,9 @@
       <file leaf-file-name="Reentrant.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/Cocurrent/Reentrant.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
+            <state relative-caret-position="493">
               <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-              <folding>
-                <element signature="e#118#119#0" expanded="true" />
-                <element signature="e#162#163#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -279,8 +283,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -387,42 +389,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AlgorithmTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AlgorithmTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Cocurrent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ExecutorTest.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -1054,28 +1024,29 @@
       <workItem from="1470619860285" duration="48000" />
       <workItem from="1470637265976" duration="10556000" />
       <workItem from="1470706580976" duration="9268000" />
-      <workItem from="1470793504865" duration="6828000" />
+      <workItem from="1470793504865" duration="7057000" />
+      <workItem from="1470879765058" duration="6859000" />
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="192398000" />
+    <option name="totallyTimeSpent" value="199486000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1040" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36075205" sideWeight="0.4892704" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35957697" sideWeight="0.4892704" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31487888" sideWeight="0.58798283" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32549942" sideWeight="0.41845495" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31844887" sideWeight="0.41201717" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31807512" sideWeight="0.41201717" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2353896" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1396,10 +1367,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1003#1004#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1407,7 +1374,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
           <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1464,58 +1430,59 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/Cocurrent/TestSychronizedMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="915">
+        <state relative-caret-position="1334">
           <caret line="57" column="46" selection-start-line="57" selection-start-column="46" selection-end-line="57" selection-end-column="46" />
           <folding>
-            <element signature="e#1709#1848#0" expanded="true" />
-            <element signature="e#1847#1848#0" expanded="true" />
+            <element signature="e#1317#1526#0" expanded="false" />
+            <element signature="e#1525#1526#0" expanded="false" />
+            <element signature="e#1548#1687#0" expanded="false" />
+            <element signature="e#1686#1687#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/Cocurrent/TestReentrant.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-446">
+        <state relative-caret-position="841">
           <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-          <folding />
+          <folding>
+            <element signature="e#664#665#0" expanded="false" />
+            <element signature="e#706#707#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/Cocurrent/TestAtomic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47">
+        <state relative-caret-position="377">
           <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-          <folding />
+          <folding>
+            <element signature="e#271#522#0" expanded="false" />
+            <element signature="e#521#522#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/Cocurrent/Reentrant.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
+        <state relative-caret-position="493">
           <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding>
-            <element signature="e#118#119#0" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/Cocurrent/ExecutorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+        <state relative-caret-position="1526">
+          <caret line="89" column="9" selection-start-line="89" selection-start-column="9" selection-end-line="89" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#701#709#0" expanded="true" />
             <element signature="e#834#842#0" expanded="true" />
             <element signature="e#944#952#0" expanded="true" />
-            <element signature="e#1046#1239#0" expanded="true" />
-            <element signature="e#1238#1239#0" expanded="true" />
-            <element signature="e#1322#1475#0" expanded="true" />
-            <element signature="e#1474#1475#0" expanded="true" />
-            <element signature="e#2962#2970#0" expanded="true" />
-            <element signature="e#3219#3220#0" expanded="true" />
-            <element signature="e#3259#3260#0" expanded="true" />
+            <element signature="e#2979#2987#0" expanded="true" />
+            <element signature="e#3505#3506#0" expanded="true" />
+            <element signature="e#3545#3546#0" expanded="true" />
           </folding>
         </state>
       </provider>
