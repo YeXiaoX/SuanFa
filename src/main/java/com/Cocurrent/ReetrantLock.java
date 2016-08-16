@@ -17,16 +17,16 @@ public class ReetrantLock {
     }
 
     public void doSomething(Thread thread, long c){
-        lock.lock();
+        //lock.lock();
         /*
         如果不加lockInterruptibly(),当发生中断时，则优先处理中断，这里就是线程不会sleep，而直接向下执行
         如果加lockInterruptibly(),当发生中断时，先抛出异常，由上级调用者处理异常，在这里就是继续sleep
         * */
-//        try {
-//            lock.lockInterruptibly();
-//        } catch (InterruptedException e) {
-//            e.printStackTrace();
-//        }
+        try {
+            lock.lockInterruptibly();
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
         try {
             System.out.println("super sleep "+c);
             thread.sleep(c);

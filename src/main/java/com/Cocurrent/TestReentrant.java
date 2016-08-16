@@ -53,7 +53,7 @@ public class TestReentrant extends Reentrant{
             }
         };
         thread.start();
-        thread.interrupt();
+        //thread.interrupt();
 
         Thread thread2 = new Thread(){
             @Override

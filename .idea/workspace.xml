@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d94d8be-1a06-4d30-bc64-ead206d5292a" name="Default" comment="PrintMatrix">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/Cocurrent/ExecutorTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/Cocurrent/ExecutorTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/Cocurrent/ReetrantLock.java" afterPath="$PROJECT_DIR$/src/main/java/com/Cocurrent/ReetrantLock.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/Cocurrent/TestReentrant.java" afterPath="$PROJECT_DIR$/src/main/java/com/Cocurrent/TestReentrant.java" />
     </list>
     <ignored path="AlgorithmTest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,13 +29,13 @@
       <file leaf-file-name="TestReentrant.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/Cocurrent/TestReentrant.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="12">
-              <caret line="42" column="44" selection-start-line="42" selection-start-column="44" selection-end-line="42" selection-end-column="44" />
+            <state relative-caret-position="587">
+              <caret line="53" column="10" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
               <folding>
                 <element signature="e#1545#1723#0" expanded="true" />
                 <element signature="e#1722#1723#0" expanded="true" />
-                <element signature="e#1803#2030#0" expanded="true" />
-                <element signature="e#2029#2030#0" expanded="true" />
+                <element signature="e#1805#2032#0" expanded="true" />
+                <element signature="e#2031#2032#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -50,11 +51,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExecutorTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ExecutorTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/Cocurrent/ExecutorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="92" column="27" selection-start-line="92" selection-start-column="27" selection-end-line="92" selection-end-column="27" />
+            <state relative-caret-position="490">
+              <caret line="94" column="5" selection-start-line="94" selection-start-column="5" selection-end-line="94" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -65,10 +66,41 @@
       <file leaf-file-name="ReetrantLock.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/Cocurrent/ReetrantLock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-317">
-              <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+            <state relative-caret-position="233">
+              <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReadAndWriteLock.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/Cocurrent/ReadAndWriteLock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#520#521#0" expanded="true" />
+                <element signature="e#550#551#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestReadAndWrite.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/Cocurrent/TestReadAndWrite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#238#254#0" expanded="true" />
+                <element signature="e#380#607#0" expanded="true" />
+                <element signature="e#606#607#0" expanded="true" />
+                <element signature="e#632#839#0" expanded="true" />
+                <element signature="e#838#839#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -90,31 +122,6 @@
             <state relative-caret-position="368">
               <caret line="19" column="5" selection-start-line="7" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StaticProxy.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/aop/proxy/test/StaticProxy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-              <folding>
-                <element signature="e#190#191#0" expanded="false" />
-                <element signature="e#236#237#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CglibProxy.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/aop/proxy/test/CglibProxy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -165,8 +172,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/simple/FindTwoInArray.java" />
-        <option value="$PROJECT_DIR$/src/com/simple/RevertCharacters.java" />
         <option value="$PROJECT_DIR$/src/com/simple/TheProbabilityOfN.java" />
         <option value="$PROJECT_DIR$/src/com/simple/PokeIsInOrder.java" />
         <option value="$PROJECT_DIR$/src/com/simple/DeleteNumByOrder.java" />
@@ -213,9 +218,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/Cocurrent/TestSychronizedMethod.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/Cocurrent/TestHarness.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/Cocurrent/ReetrantLockTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Cocurrent/ExecutorTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/Cocurrent/ReetrantLock.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/Cocurrent/TestReentrant.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Cocurrent/ExecutorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Cocurrent/TestReadAndWrite.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Cocurrent/ReadAndWriteLock.java" />
       </list>
     </option>
   </component>
@@ -402,27 +409,7 @@
       <recent name="com.simple" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestReentrant">
-    <configuration default="false" name="ConCurrentHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.Cocurrent.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.Cocurrent.ConCurrentHashMap" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="AlgorithmTest" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.TestReadAndWrite">
     <configuration default="false" name="TestSychronizedMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -491,6 +478,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.Cocurrent.TestReentrant" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="AlgorithmTest" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestReadAndWrite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.Cocurrent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.Cocurrent.TestReadAndWrite" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -918,19 +925,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.ConCurrentHashMap" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TestSychronizedMethod" />
-      <item index="2" class="java.lang.String" itemvalue="Application.TestHarness" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ExecutorTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.TestReentrant" />
+      <item index="0" class="java.lang.String" itemvalue="Application.TestSychronizedMethod" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TestHarness" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ExecutorTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TestReentrant" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TestReadAndWrite" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TestReentrant" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ExecutorTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TestHarness" />
-        <item index="3" class="java.lang.String" itemvalue="Application.TestSychronizedMethod" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ConCurrentHashMap" />
+        <item index="0" class="java.lang.String" itemvalue="Application.TestReadAndWrite" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestReentrant" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ExecutorTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TestHarness" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TestSychronizedMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -1031,17 +1038,17 @@
       <workItem from="1470793504865" duration="7057000" />
       <workItem from="1470879765058" duration="6859000" />
       <workItem from="1471270136466" duration="1433000" />
-      <workItem from="1471336974332" duration="4370000" />
+      <workItem from="1471336974332" duration="7061000" />
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="205289000" />
+    <option name="totallyTimeSpent" value="207980000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1040" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1052,7 +1059,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3246311" sideWeight="0.41845495" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3166856" sideWeight="0.41201717" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3166856" sideWeight="0.41201717" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24188311" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1096,20 +1103,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/simple/Link.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/simple/O1deleteLinklist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/test/Dervied.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="331">
@@ -1409,8 +1402,8 @@
         <state relative-caret-position="1225">
           <caret line="57" column="46" selection-start-line="57" selection-start-column="46" selection-end-line="57" selection-end-column="46" />
           <folding>
-            <element signature="e#1709#1848#0" expanded="true" />
-            <element signature="e#1847#1848#0" expanded="true" />
+            <element signature="e#1709#1848#0" expanded="false" />
+            <element signature="e#1847#1848#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1428,7 +1421,7 @@
         <state relative-caret-position="300">
           <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
           <folding>
-            <element signature="e#1003#1004#0" expanded="true" />
+            <element signature="e#1003#1004#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1449,35 +1442,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Cocurrent/ExecutorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="94" column="5" selection-start-line="94" selection-start-column="5" selection-end-line="94" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/Cocurrent/TestReentrant.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12">
-          <caret line="42" column="44" selection-start-line="42" selection-start-column="44" selection-end-line="42" selection-end-column="44" />
+        <state relative-caret-position="587">
+          <caret line="53" column="10" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
           <folding>
             <element signature="e#1545#1723#0" expanded="true" />
             <element signature="e#1722#1723#0" expanded="true" />
-            <element signature="e#1803#2030#0" expanded="true" />
-            <element signature="e#2029#2030#0" expanded="true" />
+            <element signature="e#1805#2032#0" expanded="true" />
+            <element signature="e#2031#2032#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/Cocurrent/ReetrantLock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-317">
-          <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+        <state relative-caret-position="233">
+          <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Cocurrent/ExecutorTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Cocurrent/TestReadAndWrite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="92" column="27" selection-start-line="92" selection-start-column="27" selection-end-line="92" selection-end-column="27" />
+        <state relative-caret-position="187">
+          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#238#254#0" expanded="true" />
+            <element signature="e#380#607#0" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
+            <element signature="e#632#839#0" expanded="true" />
+            <element signature="e#838#839#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Cocurrent/ReadAndWriteLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
           </folding>
         </state>
       </provider>
