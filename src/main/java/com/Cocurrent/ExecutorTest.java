@@ -88,7 +88,8 @@ public class ExecutorTest {
         } catch (Exception e1) {
             e1.printStackTrace();
         }
-
+//       Thread t = new Thread(new Task());
+//        t.run();//当做普通方法调用，不会实现多线程异步调用
         System.exit(0);
     }
 }

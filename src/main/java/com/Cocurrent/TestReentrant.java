@@ -33,30 +33,36 @@ public class TestReentrant extends Reentrant{
 
     public static void main(String args[]){
         //final Reentrant r = new Reentrant();
-        Thread thread0 = new Thread(){
+        final  ReetrantLock rl = new ReetrantLock();
+        rl.doOtherthing();
+        rl.doOtherthing();//测试锁的可重入性
+//        Thread thread0 = new Thread(){
+//            @Override
+//            public void run() {
+//                TestReentrant tr = new TestReentrant(1);
+//                tr.doSomething(this,8000);
+//            }
+//        };
+//        thread0.start();
+
+        Thread thread = new Thread(){
             @Override
             public void run() {
-                TestReentrant tr = new TestReentrant(1);
-                tr.doSomething(this,8000);
+               // r.doSomething(this,5000);
+                rl.doSomething(this,5000);
             }
         };
-        thread0.start();
+        thread.start();
+        thread.interrupt();
 
-//        Thread thread = new Thread(){
-//            @Override
-//            public void run() {
-//                r.doSomething(this,5000);
-//            }
-//        };
-//        thread.start();
-//
-//        Thread thread2 = new Thread(){
-//            @Override
-//            public void run() {
-//               // Reentrant r = new Reentrant();
-//                r.doSomething(this,2000);
-//            }
-//        };
-//        thread2.start();
+        Thread thread2 = new Thread(){
+            @Override
+            public void run() {
+               // Reentrant r = new Reentrant();
+              //  r.doSomething(this,2000);
+                rl.doSomething(this,2000);
+            }
+        };
+        thread2.start();
     }
 }
