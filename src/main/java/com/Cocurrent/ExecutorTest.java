@@ -89,7 +89,8 @@ public class ExecutorTest {
             e1.printStackTrace();
         }
 //       Thread t = new Thread(new Task());
-//        t.run();//当做普通方法调用，不会实现多线程异步调用
+//        t.run();//当做普通方法调用，不会实现多线程异步调用,如果用t.start()则表示从一个线程的完整生命周期开始，显示创建一个线程，调用start后表示线程就绪，调用run方法
+        //表示线程执行，然后是线程阻塞和结束
         System.exit(0);
     }
 }
