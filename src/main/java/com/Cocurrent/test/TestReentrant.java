@@ -1,4 +1,7 @@
-package com.Cocurrent;
+package com.Cocurrent.test;
+
+import com.Cocurrent.Reentrant;
+import com.Cocurrent.ReetrantLock;
 
 /**
  * Created by Ivan on 2016/8/8.
@@ -16,7 +19,7 @@ package com.Cocurrent;
  * java中一个类的方法区是所有对象共有的，所以针对方法的锁也就是针对对象的，多个线程通过同一个对象调用方法时，需要先获得方法上的锁。
  * 子类的dosomething执行前都会先获取父类上的锁，所以如果synchronized不是可重入的锁，则此时将产生死锁
  */
-public class TestReentrant extends Reentrant{
+public class TestReentrant extends Reentrant {
     public TestReentrant(int i){
         System.out.println("son ");
     }
@@ -33,7 +36,7 @@ public class TestReentrant extends Reentrant{
 
     public static void main(String args[]){
         //final Reentrant r = new Reentrant();
-        final  ReetrantLock rl = new ReetrantLock();
+        final ReetrantLock rl = new ReetrantLock();
         rl.doOtherthing();
         rl.doOtherthing();//测试锁的可重入性
 //        Thread thread0 = new Thread(){

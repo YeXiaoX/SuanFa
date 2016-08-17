@@ -1,4 +1,4 @@
-package com.Cocurrent;
+package com.Cocurrent.test;
 
 import java.util.concurrent.atomic.AtomicLong;
 

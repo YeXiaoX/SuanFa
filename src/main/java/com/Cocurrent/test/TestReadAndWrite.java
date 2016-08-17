@@ -1,4 +1,6 @@
-package com.Cocurrent;
+package com.Cocurrent.test;
+
+import com.Cocurrent.ReadAndWriteLock;
 
 import java.util.HashMap;
 import java.util.Map;

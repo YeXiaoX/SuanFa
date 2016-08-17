@@ -1,4 +1,4 @@
-package com.Cocurrent;
+package com.Cocurrent.test;
 
 /**
  * Created by Ivan on 2016/8/9.
